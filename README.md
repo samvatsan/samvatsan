@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @samvatsan
-- 👀 I’m interested in a *lot* of things, especially the various applications of machine learning and mathematical modeling. My repos focus on content from such projects. 
-- 🌱 I’m currently learning about reinforcement learning and species distribution modeling. I'm using the former at my internship at the Air Force Research Lab (<https://www.act3-ace.com/about>), and the latter as a research assistant at the Irish Basking Shark Group (<https://www.baskingshark.ie/>). 
-- 💞️ I’m not looking to collaborate at the moment, but I may soon return to a project to classify and predict water quality using ANNs. I'd love to work with someone on that!
+- 👋 Hi, I’m @samvatsan. I'm a second-year EECS & Public Policy student at MIT! (https://www.linkedin.com/in/sam-srivatsan/) 
+- 👀 I’ve done a few ML/data science projects and am now learning iOS app & fullstack software development. 
+- 🌱 I currently develop, train, and evaluate offfline Reinforcement Learning Algorithms for the US Air Force (<https://www.act3-ace.com/about>).
+- 💞️ Always open to collaboration on personal projects or hackathons! Languages: Python, Java, JavaScript, Swift, Kotlin. 
 
 <!---
 samvatsan/samvatsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
